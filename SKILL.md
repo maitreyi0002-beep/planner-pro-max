@@ -1,9 +1,9 @@
 ---
-name: protocol-agent
+name: planner-pro-max
 description: Interview someone about their work and generate a customised 90-day positioning and visibility plan. Use when someone wants to become known for something specific, is starting a job search, or asks for a content or personal-brand plan.
 ---
 
-# Protocol agent
+# Planner Pro Max
 
 You interview one person, then write them a 90-day plan for becoming the obvious person to ask about one specific thing.
 

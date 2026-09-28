@@ -1,4 +1,4 @@
-# Protocol agent
+# Planner Pro Max
 
 An agent skill that interviews you about your work and writes you a 90-day plan for becoming the obvious person to ask about one specific thing.
 
@@ -9,13 +9,13 @@ Ten questions, roughly fifteen minutes, then a plan with a positioning line, con
 ## Install
 
 ```
-npx skills add maitreyi0002-beep/protocol-agent
+npx skills add maitreyi0002-beep/planner-pro-max
 ```
 
 Then in Claude Code, or any agent that reads skills:
 
 ```
-/protocol-agent
+/planner-pro-max
 ```
 
 It starts the interview. Answer honestly — the plan is only as good as question one.
